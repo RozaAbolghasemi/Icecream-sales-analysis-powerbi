@@ -138,7 +138,7 @@ The report consists of **five interactive pages**:
 ## 🙋‍♀️ About Me
 
 I'm **Roza**, a data scientist with a strong focus on turning complex data into clear, visual stories that drive business decisions.  
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/roza-abolghasemi-584a9386/)) | 📫 [Email](r.abolghasemi1@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/roza-abolghasemi-584a9386/)) | 📫 [Email](r.abolghasemi1@gmail.com)
 
 ---
 
