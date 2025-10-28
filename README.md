@@ -1,4 +1,4 @@
-# 🧊 Ice Cream Sales Analysis | Power BI Dashboard Project
+# campaigns and Sales Analysis | Power BI Dashboard Project
 
 This project presents a comprehensive analysis of ice cream sales across Danish locations for the years 2017 and 2018. Built entirely in **Power BI**, it covers key business metrics, regional performance, and promotional impact, giving decision-makers a clear view of sales trends and opportunities.
 
